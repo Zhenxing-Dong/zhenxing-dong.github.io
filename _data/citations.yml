@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-14'
 papers:
   KjoukgwAAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 16
     title: GPU-accelerated iterative method for FD-OCT image reconstruction with an image-level cross-domain regularizer
     year: '2023'
   KjoukgwAAAAJ:Se3iqnhoufwC:
-    citations: 16
+    citations: 17
     title: 'Motion Hologram: Jointly optimized hologram generation and motion planning for photorealistic 3D displays via reinforcement learning'
     year: '2025'
   KjoukgwAAAAJ:Tyk-4Ss8FVUC:
@@ -18,7 +18,7 @@ papers:
     title: Fourier-inspired neural module for real-time and high-fidelity computer-generated holography
     year: '2023'
   KjoukgwAAAAJ:W7OEmFMy1HYC:
-    citations: 22
+    citations: 24
     title: Gaze-contingent efficient hologram compression for foveated near-eye holographic displays
     year: '2023'
   KjoukgwAAAAJ:Y0pCki6q_DkC:
